@@ -1,3 +1,5 @@
 # StreamApiPractise
 
-Задание в классе src/main/java/ru/gerch/streamPractise/service/CarService
+Практикум по stream api
+
+Задание в классе src/service/CarService
